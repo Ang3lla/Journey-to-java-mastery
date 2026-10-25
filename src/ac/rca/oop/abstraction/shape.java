@@ -6,3 +6,4 @@ public abstract class shape {
         System.out.println("I am a shape");
     }
 }
+
